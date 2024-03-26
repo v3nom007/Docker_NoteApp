@@ -1,3 +1,3 @@
-# Sample Node.js application
+# Todo Note Node.js application
 
-This repository is a sample Node.js application for Docker's documentation.
+This repository is a Todo Note Node.js application impletemented using Docker and Kubernetes Cluster.
